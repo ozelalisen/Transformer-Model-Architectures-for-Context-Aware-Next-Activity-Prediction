@@ -1,0 +1,20 @@
+# IDE:
+.idea/
+.db
+
+# more environments:
+.venv-*/
+.venv_*/
+venv-*/
+venv_*/
+# docs:
+site/
+docs/nav.md
+# configuration:
+settings.toml
+.secrets.toml
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
