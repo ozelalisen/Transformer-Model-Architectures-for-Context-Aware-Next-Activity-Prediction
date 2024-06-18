@@ -1,10 +1,6 @@
-### README
-
 # Transformer Model Architectures for Context-Aware Next Activity Prediction
 
-## Goal
-
-The aim of this project is to evaluate the effect of different architecture types and prefix lengths on the next activity prediction in process mining. In particular, we focus on the impact of hierarchical models (indicated by "multiple" in the model type) and various prefix lengths.
+The aim of this project is to evaluate the impact of different model architectures on next activity prediction in process mining. This includes various model types such as transformers, LSTMs, and dense networks, both with and without hierarchical structures. The hierarchical models are indicated by "multiple" in the model type. Additionally, the project explores the influence of different prefix lengths on the prediction performance.
 
 ## Overview
 
